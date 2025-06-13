@@ -1,5 +1,5 @@
 window.onload = function() {
-    let sujeto = ["An old comedian ", "A man ", "My dog "];
+    let sujeto = ["An old comedian ", "A man ", "A dog "];
     let accion = ["eat ", "broke ", "throw "];
     let objeto = ["my homework ", "my hotdog ", "my sandwich "];
     let lugar = ["in the street", "in the bus station", "in the school"];
